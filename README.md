@@ -1,2 +1,2 @@
-# Semi-Blind-MLP
-Implementation the my paper
+# SSK-semiblind
+Implementation the paper

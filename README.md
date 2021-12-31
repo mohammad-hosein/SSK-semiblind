@@ -1,2 +1,2 @@
 # Semi-Blind-MLP
-Implementation of my paper
+Implementation the my paper
